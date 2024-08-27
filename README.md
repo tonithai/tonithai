@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonithai
-- 👀 I’m interested in ... NFT, Film, Crypto
-- 🌱 I’m currently learning ... NFT's, Crypto, WEB3
-- 💞️ I’m looking to collaborate on ... NFT's for creatives
+- 👀 I’m interested in ... AI, Film, Crypto
+- 🌱 I’m currently learning ... AI, WEB3 & Startups
+- 💞️ I’m looking to collaborate on ... Tech for creatives
 - 📫 How to reach me ... tonithai1@gmail.com
 
 <!---
